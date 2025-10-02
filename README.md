@@ -54,9 +54,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=undcvr.undcvr&left_color=blueviolet&right_color=black"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/undcvr/undcvr/output/snake.svg" alt="Snake animation" />
-
-###
